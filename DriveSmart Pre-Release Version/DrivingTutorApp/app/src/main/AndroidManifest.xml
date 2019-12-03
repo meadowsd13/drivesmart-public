@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.drivingtutorapp">
+
+    <application
+        android:allowBackup="true"
+        android:fullBackupContent="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Driving Tutor"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".LearnFunction4"></activity>
+        <activity android:name=".LearnFunction3" />
+        <activity android:name=".LearnFunction2" />
+        <activity android:name=".LearnFunction" />
+        <activity android:name=".QuizContract" />
+        <activity android:name=".Database" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainPractice" />
+        <activity android:name=".PracticeQuizActivity" />
+        <activity android:name=".MainQuiz" />
+        <activity android:name=".RyclerViewMain" />
+        <activity android:name=".Manuals" />
+        <activity android:name=".QuizActivity"/>
+
+    </application>
+
+</manifest>
