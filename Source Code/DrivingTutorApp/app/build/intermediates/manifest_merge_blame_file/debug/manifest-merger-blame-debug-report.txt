@@ -6,80 +6,80 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="15"
-8-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml
+8-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml
+9-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:6:5-36:19
+11-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:6:5-36:19
 12        android:allowBackup="true"
-12-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:7:9-35
+12-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:7:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 13-->[androidx.core:core:1.1.0] C:\Users\David Meadows\.gradle\caches\transforms-2\files-2.1\f01b27bb220ecb79298884ef36a7a2fb\core-1.1.0\AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:fullBackupContent="true"
-15-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:8:9-41
+15-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:8:9-41
 16        android:icon="@mipmap/ic_launcher"
-16-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:9:9-43
+16-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:9:9-43
 17        android:label="Driving Tutor"
-17-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:10:9-38
+17-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:10:9-38
 18        android:roundIcon="@mipmap/ic_launcher_round"
-18-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:11:9-54
+18-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:11:9-54
 19        android:supportsRtl="true"
-19-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:12:9-35
+19-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:12:9-35
 20        android:testOnly="true"
 21        android:theme="@style/AppTheme" >
-21-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:13:9-40
+21-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:13:9-40
 22        <activity android:name="com.example.drivingtutorapp.LearnFunction4" />
-22-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:16:9-61
-22-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:16:19-49
+22-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:16:9-61
+22-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:16:19-49
 23        <activity android:name="com.example.drivingtutorapp.LearnFunction3" />
-23-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:17:9-52
-23-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:17:19-49
+23-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:17:9-52
+23-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:17:19-49
 24        <activity android:name="com.example.drivingtutorapp.LearnFunction2" />
-24-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:18:9-52
-24-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:18:19-49
+24-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:18:9-52
+24-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:18:19-49
 25        <activity android:name="com.example.drivingtutorapp.LearnFunction" />
-25-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:19:9-51
-25-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:19:19-48
+25-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:19:9-51
+25-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:19:19-48
 26        <activity android:name="com.example.drivingtutorapp.QuizContract" />
-26-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:20:9-50
-26-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:20:19-47
+26-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:20:9-50
+26-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:20:19-47
 27        <activity android:name="com.example.drivingtutorapp.Database" />
-27-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:21:9-46
-27-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:21:19-43
+27-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:21:9-46
+27-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:21:19-43
 28        <activity android:name="com.example.drivingtutorapp.MainActivity" >
-28-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:22:9-28:20
-28-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:22:19-47
+28-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:22:9-28:20
+28-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:22:19-47
 29            <intent-filter>
-29-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:23:13-27:29
+29-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:23:13-27:29
 30                <action android:name="android.intent.action.MAIN" />
-30-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:24:17-69
-30-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:24:25-66
+30-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:24:17-69
+30-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:24:25-66
 31
 32                <category android:name="android.intent.category.LAUNCHER" />
-32-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:26:17-77
-32-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:26:27-74
+32-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:26:17-77
+32-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:26:27-74
 33            </intent-filter>
 34        </activity>
 35        <activity android:name="com.example.drivingtutorapp.MainPractice" />
-35-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:29:9-50
-35-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:29:19-47
+35-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:29:9-50
+35-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:29:19-47
 36        <activity android:name="com.example.drivingtutorapp.PracticeQuizActivity" />
-36-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:30:9-58
-36-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:30:19-55
+36-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:30:9-58
+36-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:30:19-55
 37        <activity android:name="com.example.drivingtutorapp.MainQuiz" />
-37-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:31:9-46
-37-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:31:19-43
+37-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:31:9-46
+37-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:31:19-43
 38        <activity android:name="com.example.drivingtutorapp.RyclerViewMain" />
-38-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:32:9-52
-38-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:32:19-49
+38-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:32:9-52
+38-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:32:19-49
 39        <activity android:name="com.example.drivingtutorapp.Manuals" />
-39-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:33:9-45
-39-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:33:19-42
+39-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:33:9-45
+39-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:33:19-42
 40        <activity android:name="com.example.drivingtutorapp.QuizActivity" />
-40-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:34:9-49
-40-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:34:19-47
+40-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:34:9-49
+40-->C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:34:19-47
 41
 42        <provider
 42-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\David Meadows\.gradle\caches\transforms-2\files-2.1\55580b0ab45b69249933074462ab11c2\lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43

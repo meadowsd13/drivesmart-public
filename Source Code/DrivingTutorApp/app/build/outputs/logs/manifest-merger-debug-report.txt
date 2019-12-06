@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:2:1-38:12
+ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:2:1-38:12
 MERGED from [androidx.navigation:navigation-ui:2.1.0] C:\Users\David Meadows\.gradle\caches\transforms-2\files-2.1\c0d0b74cfcf74bf6b01d1310c8e70403\jetified-navigation-ui-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\David Meadows\.gradle\caches\transforms-2\files-2.1\2946ca0ea6c89dab7d7d9fbc18e54292\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\David Meadows\.gradle\caches\transforms-2\files-2.1\d74b5b498b35fd5cb32d0a6997bb1d3d\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
@@ -44,27 +44,27 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\David Meadows\.g
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\David Meadows\.gradle\caches\transforms-2\files-2.1\b432947d09f38291043b1b7278108b44\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\David Meadows\.gradle\caches\transforms-2\files-2.1\8cf450d11667f9427b289f08c2115f5c\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\David Meadows\.gradle\caches\transforms-2\files-2.1\d31a9dbc3f8404c541e987748c42963b\print-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:2:1-38:12
 	package
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:4:5-42
-		INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:4:5-42
+		INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:2:1-38:12
-		INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:2:1-38:12
-		INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:6:5-36:19
+ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:6:5-36:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\David Meadows\.gradle\caches\transforms-2\files-2.1\2946ca0ea6c89dab7d7d9fbc18e54292\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\David Meadows\.gradle\caches\transforms-2\files-2.1\2946ca0ea6c89dab7d7d9fbc18e54292\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\David Meadows\.gradle\caches\transforms-2\files-2.1\508ac768b50158a079142e4dc4915061\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
@@ -80,87 +80,87 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\David Meadows\
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\David Meadows\.gradle\caches\transforms-2\files-2.1\f01b27bb220ecb79298884ef36a7a2fb\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:10:9-38
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:10:9-38
 	android:fullBackupContent
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:8:9-41
 	tools:ignore
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:15:9-48
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:15:9-48
 	android:roundIcon
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:13:9-40
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:13:9-40
 activity#com.example.drivingtutorapp.LearnFunction4
-ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:16:9-61
+ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:16:9-61
 	android:name
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:16:19-49
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:16:19-49
 activity#com.example.drivingtutorapp.LearnFunction3
-ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:17:9-52
+ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:17:9-52
 	android:name
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:17:19-49
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:17:19-49
 activity#com.example.drivingtutorapp.LearnFunction2
-ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:18:9-52
+ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:18:9-52
 	android:name
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:18:19-49
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:18:19-49
 activity#com.example.drivingtutorapp.LearnFunction
-ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:19:9-51
+ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:19:9-51
 	android:name
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:19:19-48
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:19:19-48
 activity#com.example.drivingtutorapp.QuizContract
-ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:20:9-50
+ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:20:9-50
 	android:name
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:20:19-47
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:20:19-47
 activity#com.example.drivingtutorapp.Database
-ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:21:9-46
+ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:21:9-46
 	android:name
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:21:19-43
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:21:19-43
 activity#com.example.drivingtutorapp.MainActivity
-ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:22:9-28:20
+ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:22:9-28:20
 	android:name
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:22:19-47
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:22:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:23:13-27:29
+ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:24:17-69
+ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:24:25-66
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:26:17-77
+ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:26:27-74
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:26:27-74
 activity#com.example.drivingtutorapp.MainPractice
-ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:29:9-50
+ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:29:9-50
 	android:name
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:29:19-47
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:29:19-47
 activity#com.example.drivingtutorapp.PracticeQuizActivity
-ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:30:9-58
+ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:30:9-58
 	android:name
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:30:19-55
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:30:19-55
 activity#com.example.drivingtutorapp.MainQuiz
-ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:31:9-46
+ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:31:9-46
 	android:name
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:31:19-43
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:31:19-43
 activity#com.example.drivingtutorapp.RyclerViewMain
-ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:32:9-52
+ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:32:9-52
 	android:name
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:32:19-49
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:32:19-49
 activity#com.example.drivingtutorapp.Manuals
-ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:33:9-45
+ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:33:9-45
 	android:name
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:33:19-42
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:33:19-42
 activity#com.example.drivingtutorapp.QuizActivity
-ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:34:9-49
+ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:34:9-49
 	android:name
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml:34:19-47
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml:34:19-47
 uses-sdk
-INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml
 MERGED from [androidx.navigation:navigation-ui:2.1.0] C:\Users\David Meadows\.gradle\caches\transforms-2\files-2.1\c0d0b74cfcf74bf6b01d1310c8e70403\jetified-navigation-ui-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-ui:2.1.0] C:\Users\David Meadows\.gradle\caches\transforms-2\files-2.1\c0d0b74cfcf74bf6b01d1310c8e70403\jetified-navigation-ui-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\David Meadows\.gradle\caches\transforms-2\files-2.1\2946ca0ea6c89dab7d7d9fbc18e54292\material-1.0.0\AndroidManifest.xml:20:5-44
@@ -241,16 +241,16 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\David Meadows\.gradle\caches\transforms-2\files-2.1\8cf450d11667f9427b289f08c2115f5c\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\David Meadows\.gradle\caches\transforms-2\files-2.1\d31a9dbc3f8404c541e987748c42963b\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\David Meadows\.gradle\caches\transforms-2\files-2.1\d31a9dbc3f8404c541e987748c42963b\print-1.0.0\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\DriveSmart Pre-Release Version\DrivingTutorApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\David Meadows\Documents\GitHub\drivesmart-public\Source Code\DrivingTutorApp\app\src\main\AndroidManifest.xml
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\David Meadows\.gradle\caches\transforms-2\files-2.1\55580b0ab45b69249933074462ab11c2\lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
 	android:authorities

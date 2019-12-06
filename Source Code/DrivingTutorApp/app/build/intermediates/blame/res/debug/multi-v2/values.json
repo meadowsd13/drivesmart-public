@@ -1,8 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\David Meadows\\Documents\\GitHub\\drivesmart-public\\DriveSmart Pre-Release Version\\DrivingTutorApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\David Meadows\\Documents\\GitHub\\drivesmart-public\\Source Code\\DrivingTutorApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\David Meadows\\Documents\\GitHub\\drivesmart-public\\Source Code\\DrivingTutorApp\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "54,378",
+                        "endLines": "8,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "368,675"
+                    },
+                    "to": {
+                        "startLines": "1164,2594",
+                        "startColumns": "4,4",
+                        "startOffsets": "113758,207151",
+                        "endLines": "1169,2601",
+                        "endColumns": "12,12",
+                        "endOffsets": "114072,207448"
+                    }
+                },
                 {
                     "source": "C:\\Users\\David Meadows\\.gradle\\caches\\transforms-2\\files-2.1\\508ac768b50158a079142e4dc4915061\\constraintlayout-1.1.3\\res\\values\\values.xml",
                     "from": {
@@ -20,6 +39,25 @@
                         "endLines": "2,10,16,21,22,23,29,34,35,36,39,40,43,46,47,48,49,50,53,56,57,58,59,64,67,70,71,72,77,78,79,82,85,86,89,92,95,98,99,102,105,106,111,112,117,120,123,124,125,126,127,128,129,130,131,132,141,4421,4422,4423,4672",
                         "endColumns": "60,11,47,51,60,45,11,60,59,69,11,67,11,11,61,64,67,66,11,11,66,64,64,11,11,11,65,66,11,68,65,11,11,66,11,11,11,11,64,11,11,64,11,66,11,11,11,64,61,61,61,58,59,60,60,58,11,2575,131,3263,107",
                         "endOffsets": "206,497,829,1089,1150,1196,1439,1692,1752,1822,1955,2023,2152,2278,2340,2405,2473,2540,2663,2788,2855,2920,2985,3166,3287,3408,3474,3541,3751,3820,3886,4011,4137,4204,4330,4457,4582,4709,4774,4900,5023,5088,5296,5363,5543,5663,5783,5848,5910,5972,6034,6093,6153,6214,6275,6334,6709,323727,323859,327123,342519"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\David Meadows\\Documents\\GitHub\\drivesmart-public\\Source Code\\DrivingTutorApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1,334,549,18,99,21,102,337,3",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "16,44308,75324,2546,15463,2593,15512,44363,68",
+                        "endLines": "1,334,549,18,99,98,333,548,17",
+                        "endColumns": "50,52,46,44,46,13,13,13,123",
+                        "endOffsets": "62,44356,75366,2586,15505,15458,44303,75319,2541"
+                    },
+                    "to": {
+                        "startLines": "596,598,599,600,601,618,696,928,1140",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "35582,35783,35836,35883,35928,37934,50804,79600,110561",
+                        "endLines": "596,598,599,600,601,695,927,1139,1154",
+                        "endColumns": "50,52,46,44,46,13,13,13,123",
+                        "endOffsets": "35628,35831,35878,35923,35970,50799,79595,110556,113034"
                     }
                 },
                 {
@@ -80,6 +118,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\David Meadows\\Documents\\GitHub\\drivesmart-public\\Source Code\\DrivingTutorApp\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "153,55,102",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "194,97,148"
+                    },
+                    "to": {
+                        "startLines": "192,193,194",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "9973,10019,10066",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "10014,10061,10112"
+                    }
+                },
+                {
                     "source": "C:\\Users\\David Meadows\\.gradle\\caches\\transforms-2\\files-2.1\\f64c8351ef0c9a7a800019d28185706c\\cardview-1.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,35,36,37,38,45,47,50,7",
@@ -132,61 +187,6 @@
                         "startOffsets": "30876,31259,31398,31445,31500,32382,32436,32488,32537,32598",
                         "endColumns": "39,42,46,54,44,53,51,48,60,49",
                         "endOffsets": "30911,31297,31440,31495,31540,32431,32483,32532,32593,32643"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\David Meadows\\Documents\\GitHub\\drivesmart-public\\DriveSmart Pre-Release Version\\DrivingTutorApp\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "153,55,102",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "194,97,148"
-                    },
-                    "to": {
-                        "startLines": "192,193,194",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "9973,10019,10066",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "10014,10061,10112"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\David Meadows\\Documents\\GitHub\\drivesmart-public\\DriveSmart Pre-Release Version\\DrivingTutorApp\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1,334,549,18,99,21,102,337,3",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "16,44308,75324,2546,15463,2593,15512,44363,68",
-                        "endLines": "1,334,549,18,99,98,333,548,17",
-                        "endColumns": "50,52,46,44,46,13,13,13,123",
-                        "endOffsets": "62,44356,75366,2586,15505,15458,44303,75319,2541"
-                    },
-                    "to": {
-                        "startLines": "596,598,599,600,601,618,696,928,1140",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "35582,35783,35836,35883,35928,37934,50804,79600,110561",
-                        "endLines": "596,598,599,600,601,695,927,1139,1154",
-                        "endColumns": "50,52,46,44,46,13,13,13,123",
-                        "endOffsets": "35628,35831,35878,35923,35970,50799,79595,110556,113034"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\David Meadows\\Documents\\GitHub\\drivesmart-public\\DriveSmart Pre-Release Version\\DrivingTutorApp\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3,10",
-                        "startColumns": "4,4",
-                        "startOffsets": "54,378",
-                        "endLines": "8,17",
-                        "endColumns": "12,12",
-                        "endOffsets": "368,675"
-                    },
-                    "to": {
-                        "startLines": "1164,2594",
-                        "startColumns": "4,4",
-                        "startOffsets": "113758,207151",
-                        "endLines": "1169,2601",
-                        "endColumns": "12,12",
-                        "endOffsets": "114072,207448"
                     }
                 },
                 {
