@@ -9,20 +9,20 @@
 
     <TextView
         android:id="@+id/textView2"
-        android:textColor="#F5F4F4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-
         android:fontFamily="sans-serif-black"
-        android:text="Here you can learn about the interior of your car"
+
+        android:text="Car Interior"
         android:textAlignment="center"
+        android:textColor="#F5F4F4"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.168" />
+        app:layout_constraintVertical_bias="0.185" />
 
     <Button
         android:id="@+id/button"

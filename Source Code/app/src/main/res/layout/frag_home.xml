@@ -10,15 +10,15 @@
 
     <TextView
         android:id="@+id/HomeTitle"
-        android:textColor="#F5F4F4"
-
         android:layout_width="wrap_content"
+
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:fontFamily="sans-serif-black"
-        android:text="Welcome to Drive Smart"
+        android:text="Welcome to DriveSmart"
+        android:textColor="#F5F4F4"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
