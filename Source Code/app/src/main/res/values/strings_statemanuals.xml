@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="web_links_array">
+
+        <item>https://www.alea.gov/sites/default/files/inline-files/driverlicensemanual.pdf</item>
+        <item>https://doa.alaska.gov/dmv/dlmanual/dlman.pdf</item>
+        <item>https://driving-tests.org/arizona/az-dmv-drivers-handbook-manual/</item>
+        <item>https://static.ark.org/eeuploads/asp/ARKANSAS_DRIVER_LICENSE_manual_revision_(Corrected).pdf</item>
+        <item>https://www.dmv.ca.gov/portal/dmv/detail/pubs/hdbk/driver_handbook_toc</item>
+        <item>https://www.colorado.gov/pacific/sites/default/files/DR2337.pdf</item>
+        <item>https://driving-tests.org/connecticut/ct-dmv-drivers-handbook-manual/</item>
+        <item>https://www.dmv.de.gov/menu/forms_manuals.shtml</item>
+        <item>https://driving-tests.org/florida/fl-dmv-drivers-handbook-manual/</item>
+        <item>https://dds.georgia.gov/dds-forms-and-manuals/manuals</item>
+        <item>https://hidot.hawaii.gov/highways/files/2019/03/mvso-11272-Hawaii-Drivers-Manual-r3-LR-10-24-18.pdf</item>
+        <item>https://itd.idaho.gov/wp-content/uploads/2016/06/driver_manual.pdf</item>
+        <item>https://www.cyberdriveillinois.com/publications/pdf_publications/dsd_a112.pdf</item>
+        <item>https://www.in.gov/bmv/2831.htm</item>
+        <item>https://iowadot.gov/mvd/driverslicense/dlmanual/dlmanual.pdf</item>
+        <item>https://driving-tests.org/kansas/ks-dmv-drivers-handbook-manual/</item>
+        <item>https://kentuckystatepolice.org/wp-content/uploads/2017/12/Kentucky-Driver-Manual-12-1-2017.pdf</item>
+        <item>https://driving-tests.org/louisiana/la-dmv-drivers-handbook-manual/</item>
+        <item>https://driving-tests.org/maine/me-dmv-drivers-handbook-manual/</item>
+        <item>http://www.mva.maryland.gov/_resources/docs/DL-002.pdf</item>
+        <item>https://www.mass.gov/lists/drivers-manuals</item>
+        <item>https://driving-tests.org/michigan/mi-dmv-drivers-handbook-manual/</item>
+        <item>https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Minnesota_Drivers_Manual.pdf</item>
+        <item>https://driving-tests.org/mississippi/ms-dmv-drivers-handbook-manual/</item>
+        <item>https://dor.mo.gov/forms/Driver%20Guide.pdf</item>
+        <item>https://driving-tests.org/montana/mt-dmv-drivers-handbook-manual/</item>
+        <item>https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/manuals/engdrivermanual.pdf</item>
+        <item>https://dmvnv.com/pdfforms/dlbook.pdf</item>
+        <item>https://www.nh.gov/safety/divisions/dmv/forms/documents/nhdm.pdf</item>
+        <item>https://www.state.nj.us/mvc/pdf/license/drivermanual.pdf</item>
+        <item>http://mvd.newmexico.gov/mvd-procedures-manuals.aspx</item>
+        <item>https://dmv.ny.gov/brochure/mv21.pdf</item>
+        <item>https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Pages/handbooks.aspx</item>
+        <item>https://www.dot.nd.gov/divisions/driverslicense/docs/noncommercial-dl-manual-class-d.pdf</item>
+        <item>https://driving-tests.org/ohio/oh-bmv-drivers-handbook-manual/</item>
+        <item>https://driving-tests.org/oklahoma/ok-dmv-drivers-handbook-manual/</item>
+        <item>https://www.oregon.gov/ODOT/Forms/DMV/37.pdf</item>
+        <item>https://www.dot.state.pa.us/Public/DVSPubsForms/BDL/BDL%20Manuals/Manuals/PA%20Drivers%20Manual%20By%20Chapter/English/PUB%2095.pdf</item>
+        <item>https://driving-tests.org/south-carolina/sc-dmv-drivers-handbook-manual/</item>
+        <item>https://dps.sd.gov/driver-licensing/south-dakota-licensing-information/driving-manuals</item>
+        <item>https://www.tn.gov/content/dam/tn/safety/documents/DL_Manual.pdf</item>
+        <item>https://driving-tests.org/texas/tx-dmv-drivers-handbook-manual/</item>
+        <item>https://dld.utah.gov/wp-content/uploads/sites/17/2018/12/Driver-Handbook-2018-2019.pdf</item>
+        <item>https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-License_Manual_0.pdf</item>
+        <item>https://www.dmv.virginia.gov/dmv-manuals/#/</item>
+        <item>https://www.dol.wa.gov/driverslicense/docs/driverguide-en.pdf</item>
+        <item>https://transportation.wv.gov/DMV/DMVFormSearch/Drivers_Licensing_Handbook_web.pdf</item>
+        <item>https://wisconsindot.gov/Documents/dmv/shared/bds126-motorists-handbook.pdf</item>
+        <item>https://driving-tests.org/wyoming/wy-dot-drivers-handbook-manual/</item>
+        <item>https://driving-tests.org/wyoming/wy-dot-drivers-handbook-manual/</item>
+
+    </string-array>
+
+
+</resources>

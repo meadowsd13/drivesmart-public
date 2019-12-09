@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:scrollbarSize="10sp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textview"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:padding="15dp"
+            android:lineSpacingExtra="5dp"
+            android:lineSpacingMultiplier="2"
+            android:text="@string/textView3" />
+
+
+        <LinearLayout
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:background="@android:drawable/bottom_bar"
+            android:gravity="center_vertical">
+
+            <Button
+                android:id="@+id/backButtonM"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/backButtonBL3"
+                android:onClick="back"/>
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
